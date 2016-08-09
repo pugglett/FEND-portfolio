@@ -1,7 +1,7 @@
 body {
-	font-family: 'Montserrat', sans-serif;
-	background-color: #FDE2FF;
-	color: #5D576B;
+	font-family: "Montserrat", sans-serif;
+	background-color: #fde2ff;
+	color: #5d576b;
 }
 
 
@@ -12,7 +12,7 @@ body {
 
 .title-super {
 	font-size: 60px;
-	color: #8884FF;
+	color: #8884ff;
 }
 
 .title-logo {
@@ -21,7 +21,7 @@ body {
 }
 
 hr {
-	border-top: 3px solid #D7BCE8;
+	border-top: 3px solid #d7bce8;
 }
 
 .modal-body {
